@@ -1,0 +1,384 @@
+[2026-09-13 03:14:29] Ralat Git automation: Command '['git', 'add', '.']' returned non-zero exit status 128.
+[2026-09-13 03:17:13] Ralat Git automation: Command '['git', 'push']' returned non-zero exit status 128.
+[2026-09-13 10:36:33] USER: superadmin | ACTION: Simpan/Kemaskini fail [admin_template.py] ke direktori [bot_labs] | IP: 127.0.0.1
+[2026-09-13 10:39:15] USER: superadmin | ACTION: Simpan/Kemaskini fail [admin_template.py] ke direktori [bot_labs] | IP: 127.0.0.1
+[2026-09-13 10:45:31] USER: superadmin | ACTION: Simpan/Kemaskini fail [ui_main.py] ke direktori [bot_labs] | IP: 127.0.0.1
+[2026-09-13 10:55:08] USER: superadmin | ACTION: Cipta/Kemaskini fail [admin_template.py] ke direktori [bot_labs] | IP: 127.0.0.1
+[2026-09-14 12:22:35] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 12:27:45] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 12:27:45] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 13:14:37] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 13:14:39] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 13:18:00] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 13:28:29] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 13:30:13] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 13:30:32] USER: superadmin | ACTION: Log keluar daripada sistem | IP: 127.0.0.1
+[2026-09-14 13:32:17] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 13:35:16] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 13:42:05] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 13:43:46] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 13:43:47] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 13:48:16] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 13:50:55] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 13:54:09] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 14:15:31] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 14:18:16] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 14:21:22] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 14:29:39] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 14:32:51] USER: superadmin | ACTION: Log masuk berjaya menggunakan Secure Code & WhatsApp OTP | IP: 127.0.0.1
+[2026-09-14 14:36:59] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 14:39:26] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 14:40:27] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 14:44:50] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 14:45:15] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 14:50:11] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 14:50:22] USER: superadmin | ACTION: Exec Gemini Command: hi | IP: 127.0.0.1
+[2026-09-14 14:50:22] USER: superadmin | ACTION: Cipta/Kemaskini fail universal [gemini_chat_history.json] ke direktori [bot_labs] secara selamat | IP: 127.0.0.1
+[2026-09-14 14:50:40] USER: superadmin | ACTION: Exec Gemini Command: alamak betul macam robot | IP: 127.0.0.1
+[2026-09-14 14:50:40] USER: superadmin | ACTION: Cipta/Kemaskini fail universal [gemini_chat_history.json] ke direktori [bot_labs] secara selamat | IP: 127.0.0.1
+[2026-09-14 16:21:51] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 16:23:09] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 16:23:19] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 16:24:25] USER: superadmin | ACTION: Cipta/Kemaskini fail universal [gemini_chat_history.json] ke direktori [bot_labs] secara selamat | IP: 127.0.0.1
+[2026-09-14 16:24:36] USER: superadmin | ACTION: Cipta/Kemaskini fail universal [gemini_chat_history.json] ke direktori [bot_labs] secara selamat | IP: 127.0.0.1
+[2026-09-14 16:27:20] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 16:27:28] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-14 16:27:28] USER: superadmin | ACTION: Cipta/Kemaskini fail universal [gemini_chat_history.json] ke direktori [bot_labs] secara selamat | IP: 127.0.0.1
+[2026-09-14 16:27:37] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-14 16:27:37] USER: superadmin | ACTION: Cipta/Kemaskini fail universal [gemini_chat_history.json] ke direktori [bot_labs] secara selamat | IP: 127.0.0.1
+[2026-09-14 16:27:49] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-14 16:27:49] USER: superadmin | ACTION: Cipta/Kemaskini fail universal [gemini_chat_history.json] ke direktori [bot_labs] secara selamat | IP: 127.0.0.1
+[2026-09-14 16:28:52] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 16:29:52] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 16:30:04] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 16:30:06] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 16:30:14] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-14 16:30:14] USER: superadmin | ACTION: Cipta/Kemaskini fail universal [gemini_chat_history.json] ke direktori [bot_labs] secara selamat | IP: 127.0.0.1
+[2026-09-14 16:33:18] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 16:33:25] USER: superadmin | ACTION: Exec Gemini Command PA: test | IP: 127.0.0.1
+[2026-09-14 16:33:25] USER: superadmin | ACTION: Cipta/Kemaskini fail universal [gemini_chat_history.json] ke direktori [bot_labs] secara selamat | IP: 127.0.0.1
+[2026-09-14 16:36:36] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 16:36:39] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-14 16:36:39] USER: superadmin | ACTION: Cipta/Kemaskini fail universal [gemini_chat_history.json] ke direktori [bot_labs] secara selamat | IP: 127.0.0.1
+[2026-09-14 16:39:20] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 16:39:30] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-14 16:39:30] USER: superadmin | ACTION: Cipta/Kemaskini fail universal [gemini_chat_history.json] ke direktori [bot_labs] secara selamat | IP: 127.0.0.1
+[2026-09-14 16:43:34] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 16:43:37] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-14 16:43:37] USER: superadmin | ACTION: Cipta/Kemaskini fail universal [gemini_chat_history.json] ke direktori [bot_labs] secara selamat | IP: 127.0.0.1
+[2026-09-14 16:43:49] USER: superadmin | ACTION: Exec Gemini Command PA: aku nak tanay ni | IP: 127.0.0.1
+[2026-09-14 16:43:49] USER: superadmin | ACTION: Cipta/Kemaskini fail universal [gemini_chat_history.json] ke direktori [bot_labs] secara selamat | IP: 127.0.0.1
+[2026-09-14 16:46:42] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 16:46:43] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-14 16:46:43] USER: superadmin | ACTION: Cipta/Kemaskini fail universal [gemini_chat_history.json] ke direktori [bot_labs] secara selamat | IP: 127.0.0.1
+[2026-09-14 16:46:53] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-14 16:46:53] USER: superadmin | ACTION: Cipta/Kemaskini fail universal [gemini_chat_history.json] ke direktori [bot_labs] secara selamat | IP: 127.0.0.1
+[2026-09-14 16:49:41] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 16:49:43] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 16:49:48] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-14 16:49:48] USER: superadmin | ACTION: Cipta/Kemaskini fail universal [gemini_chat_history.json] ke direktori [bot_labs] secara selamat | IP: 127.0.0.1
+[2026-09-14 16:50:51] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 16:51:06] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 16:51:14] USER: superadmin | ACTION: Exec Gemini Command PA: gi | IP: 127.0.0.1
+[2026-09-14 16:51:14] USER: superadmin | ACTION: Cipta/Kemaskini fail universal [gemini_chat_history.json] ke direktori [bot_labs] secara selamat | IP: 127.0.0.1
+[2026-09-14 16:53:53] USER: superadmin | ACTION: Exec Gemini Command PA: hai | IP: 127.0.0.1
+[2026-09-14 16:53:53] USER: superadmin | ACTION: Cipta/Kemaskini fail universal [gemini_chat_history.json] ke direktori [bot_labs] secara selamat | IP: 127.0.0.1
+[2026-09-14 16:56:22] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-14 16:56:22] USER: superadmin | ACTION: Cipta/Kemaskini fail universal [gemini_chat_history.json] ke direktori [bot_labs] secara selamat | IP: 127.0.0.1
+[2026-09-14 16:58:05] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 16:59:48] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 16:59:52] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-14 16:59:52] USER: superadmin | ACTION: Cipta/Kemaskini fail universal [gemini_chat_history.json] ke direktori [bot_labs] secara selamat | IP: 127.0.0.1
+[2026-09-14 17:00:25] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 17:00:27] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-14 17:00:27] USER: superadmin | ACTION: Cipta/Kemaskini fail universal [gemini_chat_history.json] ke direktori [bot_labs] secara selamat | IP: 127.0.0.1
+[2026-09-14 17:01:19] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 17:01:24] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-14 17:01:24] USER: superadmin | ACTION: Cipta/Kemaskini fail universal [gemini_chat_history.json] ke direktori [bot_labs] secara selamat | IP: 127.0.0.1
+[2026-09-14 17:01:29] USER: superadmin | ACTION: Exec Gemini Command PA: hello | IP: 127.0.0.1
+[2026-09-14 17:01:29] USER: superadmin | ACTION: Cipta/Kemaskini fail universal [gemini_chat_history.json] ke direktori [bot_labs] secara selamat | IP: 127.0.0.1
+[2026-09-14 17:02:37] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 17:02:44] USER: superadmin | ACTION: Exec Gemini Command PA: wow | IP: 127.0.0.1
+[2026-09-14 17:02:44] USER: superadmin | ACTION: Cipta/Kemaskini fail universal [gemini_chat_history.json] ke direktori [bot_labs] secara selamat | IP: 127.0.0.1
+[2026-09-14 17:03:47] Ralat sambungan AI Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.', 'status': 'NOT_FOUND'}}
+[2026-09-14 17:03:47] USER: superadmin | ACTION: Melakukan analisis ralat menggunakan Kotak Pembantu AI | IP: 127.0.0.1
+[2026-09-14 17:05:38] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 17:05:46] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-14 17:07:10] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 17:07:15] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-14 17:10:02] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 17:10:06] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-14 17:12:45] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 17:12:46] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-14 18:56:30] USER: superadmin | ACTION: Log keluar daripada sistem | IP: 127.0.0.1
+[2026-09-14 18:57:08] USER: superadmin | ACTION: Log masuk berjaya menggunakan Secure Code & WhatsApp OTP | IP: 127.0.0.1
+[2026-09-14 18:57:14] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-14 18:57:26] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-14 18:58:26] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 18:59:58] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 19:00:04] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 19:00:12] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-14 19:01:18] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-14 19:02:50] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 19:02:54] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-14 19:04:03] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 19:04:07] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-14 19:09:39] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 19:11:26] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-14 19:12:10] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 19:12:28] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 19:13:50] USER: superadmin | ACTION: Exec Gemini Command PA: semua ok? | IP: 127.0.0.1
+[2026-09-14 19:16:28] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 19:18:44] USER: superadmin | ACTION: Exec Gemini Command PA: ADE SERVER ERROR KE? | IP: 127.0.0.1
+[2026-09-14 19:18:56] USER: superadmin | ACTION: Exec Gemini Command PA: ade merah tu | IP: 127.0.0.1
+[2026-09-14 19:19:14] USER: superadmin | ACTION: Exec Gemini Command PA: slot 2 CLI-1002 | IP: 127.0.0.1
+[2026-09-14 19:19:39] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 19:21:10] USER: superadmin | ACTION: Exec Gemini Command PA: ape yg ko boleh buat? | IP: 127.0.0.1
+[2026-09-14 19:22:06] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 19:23:34] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 19:24:17] USER: superadmin | ACTION: Exec Gemini Command PA: hai | IP: 127.0.0.1
+[2026-09-14 19:25:19] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 19:27:33] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 19:30:26] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 19:30:40] USER: superadmin | ACTION: Exec Gemini Command PA: Helo, selamat malam. | IP: 127.0.0.1
+[2026-09-14 19:32:17] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 19:32:25] USER: superadmin | ACTION: Exec Gemini Command PA: Kita suara. | IP: 127.0.0.1
+[2026-09-14 19:35:00] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 19:35:51] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 19:37:55] USER: superadmin | ACTION: Exec Gemini Command PA: Secara separa sekarang jam berapa? | IP: 127.0.0.1
+[2026-09-14 20:00:06] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 20:00:10] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 20:00:19] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 20:01:27] USER: superadmin | ACTION: Exec Gemini Command PA: Tolong check server 6 adera. | IP: 127.0.0.1
+[2026-09-14 20:21:36] USER: superadmin | ACTION: Exec Gemini Command PA: check server #6 ade error | IP: 127.0.0.1
+[2026-09-14 20:22:55] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 20:25:05] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 20:28:39] USER: superadmin | ACTION: Exec Gemini Command PA: arahan tadi mane? | IP: 127.0.0.1
+[2026-09-14 20:29:32] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 20:36:34] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 20:46:02] USER: superadmin | ACTION: Exec Gemini Command PA: aku nak cuba daftar client dulu | IP: 127.0.0.1
+[2026-09-14 20:48:00] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 20:49:59] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 20:50:28] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-14 20:50:48] USER: superadmin | ACTION: Exec Gemini Command PA: aku nak try daftar client dekat administrator panel | IP: 127.0.0.1
+[2026-09-14 20:54:20] USER: superadmin | ACTION: Exec Gemini Command PA: client xboleh nak login lepas daftar | IP: 127.0.0.1
+[2026-09-14 20:55:16] USER: superadmin | ACTION: Exec Gemini Command PA: baru daftar username: sbltransport | IP: 127.0.0.1
+[2026-09-14 20:55:23] USER: superadmin | ACTION: Exec Gemini Command PA: password : secure456 | IP: 127.0.0.1
+[2026-09-14 20:55:54] USER: superadmin | ACTION: Exec Gemini Command PA: client tu x boleh nak login | IP: 127.0.0.1
+[2026-09-14 20:56:09] USER: superadmin | ACTION: Exec Gemini Command PA: try check dallam leea portal | IP: 127.0.0.1
+[2026-09-14 20:56:45] USER: superadmin | ACTION: Exec Gemini Command PA: ade x client sbltransport dalam leea portal | IP: 127.0.0.1
+[2026-09-14 20:57:15] USER: superadmin | ACTION: Exec Gemini Command PA: xboleh nak login dekat leea portal | IP: 127.0.0.1
+[2026-09-14 21:03:26] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 21:07:38] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 21:14:37] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 21:20:03] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 21:38:33] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 21:44:43] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 21:49:58] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 21:50:45] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 22:05:15] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 22:09:01] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 22:11:29] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 22:14:42] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 22:27:38] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 22:27:42] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 22:32:26] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 22:36:01] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 22:38:43] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 22:38:55] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 22:39:00] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 22:39:21] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 22:40:59] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 22:51:44] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 22:51:46] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 22:52:40] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 22:52:42] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-14 22:53:01] USER: superadmin | ACTION: Log masuk berjaya menggunakan Secure Code & WhatsApp OTP | IP: 127.0.0.1
+[2026-09-14 22:53:23] USER: superadmin | ACTION: Exec Gemini Command PA: ape yang ko boleh buat? | IP: 127.0.0.1
+[2026-09-14 22:54:20] USER: superadmin | ACTION: Exec Gemini Command PA: slot 1 cli-1001 ape name syarikat die? | IP: 127.0.0.1
+[2026-09-15 10:36:53] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 10:37:00] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 10:38:02] USER: superadmin | ACTION: Log masuk berjaya menggunakan Secure Code & WhatsApp OTP | IP: 127.0.0.1
+[2026-09-15 10:38:21] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 10:39:03] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 10:39:38] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 10:41:11] USER: superadmin | ACTION: Cipta/Kemaskini fail universal [dashboard_templete.py] ke direktori [bot_labs] secara selamat | IP: 127.0.0.1
+[2026-09-15 10:41:14] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 10:42:04] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 10:42:30] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 10:42:43] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 10:42:52] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 10:42:59] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 10:43:04] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 10:45:41] USER: superadmin | ACTION: Cipta/Kemaskini fail universal [dashboard_templete.[y] ke direktori [bot_labs] secara selamat | IP: 127.0.0.1
+[2026-09-15 10:46:24] USER: superadmin | ACTION: Cipta/Kemaskini fail universal [dashboard_templete.py (ganti)] ke direktori [bot_labs] secara selamat | IP: 127.0.0.1
+[2026-09-15 10:46:37] USER: superadmin | ACTION: Cipta/Kemaskini fail universal [dashboard_templete.py] ke direktori [bot_labs] secara selamat | IP: 127.0.0.1
+[2026-09-15 10:46:41] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 10:46:54] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 11:02:14] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 11:02:26] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 11:02:58] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 11:03:49] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 11:04:15] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 11:04:34] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 11:04:56] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 11:05:44] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 11:10:08] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 11:10:44] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 11:16:47] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 11:25:31] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 11:26:46] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 11:47:13] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 11:50:48] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 11:50:50] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 11:52:12] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-15 11:54:34] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 11:54:47] USER: superadmin | ACTION: Exec Gemini Command PA: ko sihat x | IP: 127.0.0.1
+[2026-09-15 11:58:17] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 11:58:52] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 11:59:02] USER: superadmin | ACTION: Exec Gemini Command PA: selamat pagi | IP: 127.0.0.1
+[2026-09-15 12:02:57] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 12:03:20] USER: superadmin | ACTION: Exec Gemini Command PA: semua sistem dalam ni ko boleh check ke? | IP: 127.0.0.1
+[2026-09-15 12:04:10] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 12:04:17] USER: superadmin | ACTION: Exec Gemini Command PA: assalamualaikum | IP: 127.0.0.1
+[2026-09-15 12:07:16] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 12:08:54] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 12:09:45] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 12:10:52] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 12:11:06] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 12:11:41] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 12:12:35] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 12:13:44] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 12:14:20] USER: superadmin | ACTION: Exec Gemini Command PA: check srv #1 slot 2 | IP: 127.0.0.1
+[2026-09-15 12:14:45] USER: superadmin | ACTION: Exec Gemini Command PA: kenapa ada error lampu merah dekat CLI-1002 | IP: 127.0.0.1
+[2026-09-15 12:15:11] USER: superadmin | ACTION: Exec Gemini Command PA: svr #6 status error.. kenapa? | IP: 127.0.0.1
+[2026-09-15 12:16:41] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 12:18:42] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 12:20:13] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 12:21:54] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 12:25:51] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 12:26:15] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 12:27:23] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 12:28:25] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 12:29:41] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 12:40:28] USER: superadmin | ACTION: Cipta/Kemaskini fail [dashboard_template.py] ke direktori [Bot-Labs (Direktori Utama / Root)] | IP: 127.0.0.1
+[2026-09-15 13:13:47] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 13:13:49] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 13:17:35] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 13:21:11] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 13:24:20] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 13:27:14] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 13:30:06] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 13:33:27] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 13:36:24] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 13:39:37] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 13:39:41] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 13:39:48] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 13:40:06] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 13:47:25] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 13:47:43] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 13:47:45] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 13:50:41] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 13:50:52] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-15 13:51:16] USER: superadmin | ACTION: Exec Gemini Command PA: semak yang error dan bug | IP: 127.0.0.1
+[2026-09-15 13:52:47] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 13:54:32] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 13:57:22] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 13:57:35] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-15 13:58:04] USER: superadmin | ACTION: Exec Gemini Command PA: Cuba check playar. | IP: 127.0.0.1
+[2026-09-15 13:59:25] USER: superadmin | ACTION: Exec Gemini Command PA: Lihat portal. | IP: 127.0.0.1
+[2026-09-15 13:59:45] USER: superadmin | ACTION: Exec Gemini Command PA: administrator panel? | IP: 127.0.0.1
+[2026-09-15 14:00:49] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 14:00:55] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-15 14:04:17] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 14:04:26] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-15 14:05:53] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 14:06:37] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 14:06:54] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-15 14:07:06] USER: superadmin | ACTION: Exec Gemini Command PA: cek sistem ade error x | IP: 127.0.0.1
+[2026-09-15 14:07:23] USER: superadmin | ACTION: Exec Gemini Command PA: server #6 error | IP: 127.0.0.1
+[2026-09-15 14:09:12] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 14:10:02] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 14:10:13] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 14:10:15] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 14:10:21] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-15 14:11:51] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 14:11:53] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 14:12:00] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-15 14:25:53] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 14:26:00] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 14:27:00] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 14:27:02] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 14:27:08] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-15 14:28:04] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 14:29:34] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 14:29:44] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-15 14:29:58] USER: superadmin | ACTION: Exec Gemini Command PA: lama aku tunngu.. | IP: 127.0.0.1
+[2026-09-15 14:30:08] USER: superadmin | ACTION: Exec Gemini Command PA: ape tu? | IP: 127.0.0.1
+[2026-09-15 14:31:49] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 14:32:02] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 14:32:18] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 14:32:23] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-15 14:32:37] USER: superadmin | ACTION: Exec Gemini Command PA: ko hilang lama sangat | IP: 127.0.0.1
+[2026-09-15 14:32:49] USER: superadmin | ACTION: Exec Gemini Command PA: ape yg ko boleh buat? | IP: 127.0.0.1
+[2026-09-15 14:33:04] USER: superadmin | ACTION: Exec Gemini Command PA: check sistem ni boleh? | IP: 127.0.0.1
+[2026-09-15 14:33:17] USER: superadmin | ACTION: Exec Gemini Command PA: administrator panel dekat mana? | IP: 127.0.0.1
+[2026-09-15 14:33:27] USER: superadmin | ACTION: Exec Gemini Command PA: boleh | IP: 127.0.0.1
+[2026-09-15 14:33:40] USER: superadmin | ACTION: Exec Gemini Command PA: bukak pelayar | IP: 127.0.0.1
+[2026-09-15 14:35:29] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 14:37:26] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 14:37:33] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-15 14:37:57] USER: superadmin | ACTION: Exec Gemini Command PA: slot id ..slot 3 dah ada client ke? | IP: 127.0.0.1
+[2026-09-15 14:38:06] USER: superadmin | ACTION: Exec Gemini Command PA: ade ke xde? | IP: 127.0.0.1
+[2026-09-15 14:38:16] USER: superadmin | ACTION: Exec Gemini Command PA: ko x sihat ke? | IP: 127.0.0.1
+[2026-09-15 14:39:04] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 14:39:16] USER: superadmin | ACTION: Exec Gemini Command PA: ko sihat x | IP: 127.0.0.1
+[2026-09-15 14:39:30] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 14:39:32] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 14:39:39] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-15 14:39:47] USER: superadmin | ACTION: Exec Gemini Command PA: ko sihat x | IP: 127.0.0.1
+[2026-09-15 14:40:19] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 14:40:39] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 14:40:50] USER: superadmin | ACTION: Exec Gemini Command PA: hello | IP: 127.0.0.1
+[2026-09-15 14:41:04] USER: superadmin | ACTION: Exec Gemini Command PA: ape yg ko boleh buat? | IP: 127.0.0.1
+[2026-09-15 14:43:39] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 14:45:15] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 14:46:49] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 14:46:57] USER: superadmin | ACTION: Exec Gemini Command PA: hi | IP: 127.0.0.1
+[2026-09-15 14:47:18] USER: superadmin | ACTION: Exec Gemini Command PA: aoe ko boleh buat dan nbuktikan ape yg ko boleh buat? | IP: 127.0.0.1
+[2026-09-15 14:56:36] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 15:00:16] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 15:01:31] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 15:02:12] USER: superadmin | ACTION: Exec Gemini Command PA: furewall ok x | IP: 127.0.0.1
+[2026-09-15 15:02:42] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 15:04:35] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 15:14:24] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 15:15:28] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 15:26:20] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 15:26:39] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 15:28:20] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 15:29:55] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 15:30:22] USER: superadmin | ACTION: Exec Gemini Command PA: buat bunyi error sikit | IP: 127.0.0.1
+[2026-09-15 15:30:45] USER: superadmin | ACTION: Exec Gemini Command PA: KAWALAN SISTEM & AUDIT TRAIL bacakan | IP: 127.0.0.1
+[2026-09-15 15:31:09] USER: superadmin | ACTION: Exec Gemini Command PA: LIVE SYSTEM CONSOLE STREAM (REAL-TIME) | IP: 127.0.0.1
+[2026-09-15 15:31:43] USER: superadmin | ACTION: Exec Gemini Command PA: Simulasi Crash (Lampu Merah Amaran) | IP: 127.0.0.1
+[2026-09-15 15:32:04] USER: superadmin | ACTION: Exec Gemini Command PA: ko boleh restart server ke? | IP: 127.0.0.1
+[2026-09-15 15:32:11] USER: superadmin | ACTION: Exec Gemini Command PA: boleh.. cuba | IP: 127.0.0.1
+[2026-09-15 15:32:21] USER: superadmin | ACTION: Exec Gemini Command PA: restart server sekarng | IP: 127.0.0.1
+[2026-09-15 15:32:57] USER: superadmin | ACTION: Exec Gemini Command PA: deploy https://web-production-07b92.up.railway.app/ | IP: 127.0.0.1
+[2026-09-15 19:11:44] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 19:11:57] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 19:51:24] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 19:51:46] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 20:19:36] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 20:19:38] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 20:29:10] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 20:30:49] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 20:31:56] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 20:36:53] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 20:45:52] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 20:45:55] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 20:46:00] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 20:48:35] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 20:54:49] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.
+[2026-09-15 21:06:37] Sistem Daemon Thread Scheduler Backup harian telah diaktifkan di latar belakang.

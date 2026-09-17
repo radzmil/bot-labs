@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ms" x-data="appData()" x-init="init()" class="dark">
+<html lang="ms" class="dark">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,7 +13,7 @@
 <body class="bg-gray-950 text-gray-100 font-sans antialiased min-h-screen flex flex-col">
 
     <!-- Top Navigation Header -->
-    <header id="portalHeader" class="bg-gray-900/85 backdrop-blur-md border-b border-blue-500/20 sticky top-0 z-30 shadow-lg" style="display: none;">
+    <header id="portalHeader" class="bg-gray-900/85 backdrop-blur-md border-b border-blue-500/25 sticky top-0 z-30 shadow-lg" style="display: none;">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
             <div class="flex items-center space-x-3">
                 <div class="w-10 h-10 rounded-xl bg-gradient-to-tr from-blue-600 to-indigo-600 flex items-center justify-center glow-effect shadow-md overflow-hidden border border-blue-400/30">
@@ -24,7 +24,7 @@
 
             <div class="flex items-center space-x-4 font-mono text-xs">
                 <!-- E-Wallet Badge -->
-                <div id="txtEwallet" @click="currentTab = 'affiliate'; switchTabDirect('affiliate')" class="flex items-center space-x-2 px-3 py-1.5 bg-gray-950 border border-emerald-500/40 rounded-xl cursor-pointer hover:bg-emerald-950/20 transition shadow">
+                <div id="txtEwallet" onclick="switchTabDirect('tabAffiliate')" class="flex items-center space-x-2 px-3 py-1.5 bg-gray-950 border border-emerald-500/40 rounded-xl cursor-pointer hover:bg-emerald-950/20 transition shadow">
                     <i class="fa-solid fa-wallet text-emerald-400"></i>
                     <div>
                         <span class="text-[9px] text-gray-400 block uppercase leading-none">E-Wallet</span>
@@ -67,8 +67,8 @@
     <main class="flex-grow max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-8 flex flex-col justify-start space-y-6">
 
         <!-- Login Overlay / Screen -->
-        <div id="loginOverlay" class="max-w-md mx-auto space-y-6 w-full my-auto">
-            <div class="ai-digital-bg rounded-3xl p-6 md:p-8 text-white shadow-2xl glow-effect cyber-border backdrop-blur-md border border-blue-500/30">
+        <div id="loginOverlay" class="max-w-md mx-auto space-y-6 w-full my-auto" style="display: flex;">
+            <div class="ai-digital-bg rounded-3xl p-6 md:p-8 text-white shadow-2xl glow-effect cyber-border backdrop-blur-md border border-blue-500/30 w-full">
                 <div class="text-center mb-6">
                     <div class="w-12 h-12 mx-auto rounded-2xl bg-blue-600/20 border border-blue-500/40 flex items-center justify-center mb-3 glow-effect">
                         <i class="fa-solid fa-microchip text-xl text-blue-400"></i>
@@ -99,7 +99,7 @@
         </div>
 
         <!-- TAB 1: ANALISIS CHAT & DASHBOARD -->
-        <div id="tabAnalisis" class="tab-content active space-y-6">
+        <div id="tabAnalisis" class="tab-content space-y-6" style="display: none;">
             <!-- Bot Profile Summary Card -->
             <div class="ai-digital-bg border border-blue-500/30 rounded-3xl p-6 shadow-xl cyber-border">
                 <div class="flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
@@ -523,7 +523,6 @@
             Live Support Leea 🟢
         </div>
         <a href="https://wa.me/60183172114?text=Hai%20Live%20Support%20Leea,%20saya%20perlukan%20bantuan%20teknikal%20portal." target="_blank" class="relative group flex items-center justify-center w-14 h-14 bg-gradient-to-tr from-red-600 to-rose-500 rounded-full shadow-2xl transition transform hover:scale-110 border-2 border-red-400/60">
-            <!-- Kesan Lampu Kedip-Kedip Merah -->
             <span class="absolute -inset-1 rounded-full bg-red-500 opacity-75 animate-ping"></span>
             <i class="fa-brands fa-whatsapp text-white text-2xl relative z-10"></i>
         </a>

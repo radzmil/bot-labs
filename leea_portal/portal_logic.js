@@ -218,41 +218,22 @@ async function clientLogin() {
     }
 
     try {
-        const response = await fetch('/portal/api-login', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ username: user, password: pass })
-        });
-
-        const result = await response.json();
-        if (response.ok && result.status === 'success') {
-            localStorage.setItem('leea_current_client', result.client.username);
-            document.getElementById('loginOverlay').style.display = 'none';
-            document.getElementById('portalHeader').style.display = 'flex';
-            document.getElementById('portalTabs').style.display = 'flex';
-            document.getElementById('tabAnalisis').classList.add('active');
-            location.reload();
-            return;
-        }
-    } catch (err) {
-        try {
-            const dbRes = await fetch('clients_db.json');
-            if (dbRes.ok) {
-                const clients = await dbRes.json();
-                const found = clients.find(c => c.username === user && c.password === pass);
-                if (found) {
-                    localStorage.setItem('leea_current_client', found.username);
-                    document.getElementById('loginOverlay').style.display = 'none';
-                    document.getElementById('portalHeader').style.display = 'flex';
-                    document.getElementById('portalTabs').style.display = 'flex';
-                    document.getElementById('tabAnalisis').classList.add('active');
-                    location.reload();
-                    return;
-                }
+        const dbRes = await fetch('clients_db.json');
+        if (dbRes.ok) {
+            const clients = await dbRes.json();
+            const found = clients.find(c => c.username === user && c.password === pass);
+            if (found) {
+                localStorage.setItem('leea_current_client', found.username);
+                document.getElementById('loginOverlay').style.display = 'none';
+                document.getElementById('portalHeader').style.display = 'flex';
+                document.getElementById('portalTabs').style.display = 'flex';
+                document.getElementById('tabAnalisis').classList.add('active');
+                location.reload();
+                return;
             }
-        } catch (dbErr) {
-            console.error("Gagal membaca clients_db.json:", dbErr);
         }
+    } catch (dbErr) {
+        console.error("Gagal membaca clients_db.json:", dbErr);
     }
 
     errBox.innerText = translations[currentLang].errorLogin || 'Ralat log masuk.';
@@ -261,6 +242,27 @@ async function clientLogin() {
 function clientLogout() {
     localStorage.removeItem('leea_current_client');
     location.reload();
+}
+
+function switchTabDirect(tabName) {
+    const contents = document.getElementsByClassName('tab-content');
+    for (let i = 0; i < contents.length; i++) contents[i].classList.remove('active');
+    const btns = document.getElementsByClassName('tab-btn');
+    for (let i = 0; i < btns.length; i++) btns[i].classList.remove('active');
+    
+    if (tabName === 'tabAffiliate') {
+        document.getElementById('tabAffiliate').classList.add('active');
+        document.getElementById('tabBtnAffiliate').classList.add('active');
+    }
+}
+
+function switchTab(evt, tabName) {
+    const contents = document.getElementsByClassName('tab-content');
+    for (let i = 0; i < contents.length; i++) contents[i].classList.remove('active');
+    const btns = document.getElementsByClassName('tab-btn');
+    for (let i = 0; i < btns.length; i++) btns[i].classList.remove('active');
+    document.getElementById(tabName).classList.add('active');
+    evt.currentTarget.classList.add('active');
 }
 
 function submitAgentRegistration() {
@@ -492,15 +494,6 @@ async function saveClientProfileChanges() {
     } catch(e) {
         alert(currentLang === 'BM' ? 'Ralat sambungan ke pelayan.' : 'Server connection error.');
     }
-}
-
-function switchTab(evt, tabName) {
-    const contents = document.getElementsByClassName('tab-content');
-    for (let i = 0; i < contents.length; i++) contents[i].classList.remove('active');
-    const btns = document.getElementsByClassName('tab-btn');
-    for (let i = 0; i < btns.length; i++) btns[i].classList.remove('active');
-    document.getElementById(tabName).classList.add('active');
-    evt.currentTarget.classList.add('active');
 }
 
 async function updateBotName() {

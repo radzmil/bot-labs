@@ -1,0 +1,23 @@
+[33m7220013[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: reset: moving to origin/main
+[33m7220013[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{1}: commit: Kemas kini penuh portal: buang app.js, perbetulkan skrip log masuk dan paparan
+[33m0dca0b7[m HEAD@{2}: commit: Simpan fail portal_logic.js ke dalam git
+[33me541ecd[m HEAD@{3}: reset: moving to origin/main
+[33me541ecd[m HEAD@{4}: commit: Masukkan butang Live Support Leea dan buang fail lama app.js
+[33mabb980b[m HEAD@{5}: commit: Buang bahagian Tetapan Pembayaran dan Gerbang Transaksi dari portal
+[33m3929cfd[m HEAD@{6}: commit: Kemas kini kod terkini sistem portal
+[33m21b2917[m HEAD@{7}: reset: moving to origin/main
+[33m2c7f0f9[m HEAD@{8}: reset: moving to HEAD
+[33m2c7f0f9[m HEAD@{9}: reset: moving to HEAD
+[33m2c7f0f9[m HEAD@{10}: reset: moving to HEAD
+[33m2c7f0f9[m HEAD@{11}: reset: moving to HEAD
+[33m2c7f0f9[m HEAD@{12}: commit: Kemas kini portal dan selesaikan konflik git
+[33m83594be[m HEAD@{13}: commit: Kemas kini fungsi fetchChatHistory untuk elak ralat undefined
+[33mbbfb1b5[m HEAD@{14}: reset: moving to HEAD
+[33mbbfb1b5[m HEAD@{15}: commit: Kemas kini fail portal dan tetapan kekal server
+[33m3245835[m HEAD@{16}: commit: Kemas kini railway_url untuk sbltransport
+[33m6ed0760[m HEAD@{17}: commit: Kemas kini portal klien tanpa fail sensitif
+[33m4fb8de0[m HEAD@{18}: reset: moving to HEAD~1
+[33mb2eea41[m HEAD@{19}: commit: Kemas kini butang refresh pada portal klien
+[33m4fb8de0[m HEAD@{20}: commit: Kemas kini portal klien login dan dashboard dinamik
+[33md4e8038[m HEAD@{21}: Branch: renamed refs/heads/master to refs/heads/main
+[33md4e8038[m HEAD@{23}: commit (initial): Clean initial commit
